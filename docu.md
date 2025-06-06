@@ -1,4 +1,4 @@
-# 📄 Proyecto 3 – Paradigma Lógico: Ahorcado en Prolog
+# Proyecto 3 – Paradigma Lógico: Ahorcado en Prolog
 
 **Nombre del Proyecto:** Ahorcado en Prolog
 
